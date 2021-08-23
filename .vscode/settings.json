@@ -1,5 +1,11 @@
 {
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
-    }
+    },
+    "cSpell.language": "en,en-US",
+    "cSpell.words": [
+        "Ionicons",
+        "Lato",
+        "camelize"
+    ]
 }
